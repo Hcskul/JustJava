@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Just Java</string>
+    <string name="Quantity">Menge</string>
+    <string name="init_number">2</string>
+    <string name="init_price">10€</string>
+    <string name="button">Bestellung</string>
+    <string name="Price">Zusammenfassung</string>
+
+    <!-- Hint text display in the empty field for the user's name [CHAR LIMIT=20] -->
+    <string name="Toppings">Toppings</string>
+    <string name="Whipped_Cream">Schlagsahne</string>
+    <string name="Chocolate">Schokolade</string>
+    <string name="name">Bitte Namen Eingeben</string>
+    <string name="toastTooMuch">Sie können nicht mehr als 100 Tassen bestellen</string>
+    <string name="toastTooFew">Sie können nicht weniger als eine Tasse bestellen</string>
+    <string name="emailSubject">Just Java Bestellung für </string>
+    <string name="javaName">Name: </string>
+    <string name="javaWhippedCream">\nSchlagsahne ausgewählt? </string>
+    <string name="javaChocolate">\nSchokolade ausgewählt? </string>
+    <string name="javaQantity">\nMenge: </string>
+    <string name="javaThankYou">\nDankeschön!</string>
+</resources>

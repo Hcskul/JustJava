@@ -4,7 +4,20 @@
     <string name="init_number">2</string>
     <string name="init_price">10€</string>
     <string name="button">Order</string>
-    <string name="Price">Price</string>
+    <string name="Price">Order Summary</string>
     <string name="Button_Min">-</string>
     <string name="Button_Plus">+</string>
+    <string name="Toppings">Toppings</string>
+    <string name="Whipped_Cream">Whipped Cream</string>
+    <string name="Chocolate">Chocolate</string>
+    <string name="name">Please Enter Your Name</string>
+    <string name="toastTooMuch">You can\'t have more than 100 cups</string>
+    <string name="toastTooFew">You can\'t have less than 1 cup</string>
+    <string name="emailSubject">Just Java order for </string>
+    <string name="javaName">Name:</string>
+    <string name="javaWhippedCream">\nAdd whipped cream?</string>
+    <string name="javaChocolate">\nAdd Chocolate?</string>
+    <string name="javaQantity">\nQuantity:</string>
+    <string name="javaTotal">\nTotal: €</string>
+    <string name="javaThankYou">\nThank You!</string>
 </resources>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<resources>
+    <dimen name="margin_left">8dp</dimen>
+    <dimen name="margin_top">16dp</dimen>
+    <dimen name="margin_top_smaller">8dp</dimen>
+    <dimen name="Toppings_Size">16sp</dimen>
+    <dimen name="Checkbox_Padding">24dp</dimen>
+</resources>
